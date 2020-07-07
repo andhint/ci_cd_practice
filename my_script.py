@@ -1,3 +1,4 @@
 # my function
 def add_two(x):
-    return abs(x) + 2
+    # add two to input
+    return x + 2
